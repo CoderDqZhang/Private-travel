@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[MapNaviViewController viewWillAppear:]:MapNaviViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.data">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__40-[BDDynamicTree observeDownloadProgress]_block_invoke:BDDynamicTree.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.handlingArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[User sharedInstance]:User.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[OfflineMapDownloader cancelDownloadOfScene:]:OfflineMapDownloader.m">
+      </ContextState>
+      <ContextState
+         contextName = "__62-[OfflineMapDownloader downloadFrom:to:withTempPath:forScene:]_block_invoke50:OfflineMapDownloader.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[OfflineMapDownloader restoreFromAccident]:OfflineMapDownloader.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.handlingArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PersonCenterViewController createPersonInfoListView]:PersonCenterViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[User sharedInstance].sex">
+            </PersistentString>
+            <PersistentString
+               value = "[User sharedInstance]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__30-[BDDynamicTree observeUpdate]_block_invoke113:BDDynamicTree.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.requestArray">
+            </PersistentString>
+            <PersistentString
+               value = "dic">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BDDynamicTree tableView:cellForRowAtIndexPath:]:BDDynamicTree.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "cell.btnDownLoad">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[LeaveMessageViewController tableView:heightForRowAtIndexPath:]:LeaveMessageViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "comment.content">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__22+[User sharedInstance]_block_invoke:User.m">
+      </ContextState>
+      <ContextState
+         contextName = "+[Interface scenicJson2ScenicResponse:scenicID:page:]:Interface.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "json">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__62+[Interface loginAction:passWard:loginName:ssoaccount:result:]_block_invoke:Interface.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[EditePersonViewController uploadSimpleData]:EditePersonViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "addressTf.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MapNaviViewController navigationAction:]:MapNaviViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.mapView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__41-[BDDynamicTree observeProgressAndUpdate]_block_invoke_2106:BDDynamicTree.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "cell.node">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__46-[OfflineMapDownloader cancelDownloadOfScene:]_block_invoke271:OfflineMapDownloader.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "operation.userInfo">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__35-[DetailViewController viewDidLoad]_block_invoke_3:DetailViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__23+[Interface isTesting:]_block_invoke:Interface.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "operation.responseData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MapNaviViewController spotRouteItemClick:]:MapNaviViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "sender.tag">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[DetailViewController initWithMapData]:DetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.data">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[OfflineMapDownloader downloadFrom:to:withTempPath:forScene:]:OfflineMapDownloader.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[DetailViewController introductionView]:DetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.infoData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[OfflineMapDownloader handleDone:]:OfflineMapDownloader.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.handlingArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__41-[BDDynamicTree observeProgressAndUpdate]_block_invoke105:BDDynamicTree.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "cell.node">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[DetailViewController viewDidAppear:]:DetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.data">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BDDynamicTree unfoldScene:]:BDDynamicTree.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.handlingArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[EditePersonViewController viewDidLoad]:EditePersonViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__35-[DetailViewController viewDidLoad]_block_invoke_2:DetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "matchSet.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__41-[LeaveMessageViewController viewDidLoad]_block_invoke:LeaveMessageViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "response.commentsList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[AddMapScenicViewController unfoldHandlingScene]:AddMapScenicViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "downloader.handlingArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__41-[DetailMessageViewController reloadData]_block_invoke:DetailMessageViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "response.cmtList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

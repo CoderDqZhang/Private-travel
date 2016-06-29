@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "__35-[DetailViewController refreshView]_block_invoke:DetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "response.dataItem">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__35-[DetailViewController viewDidLoad]_block_invoke78:DetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.data">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MainViewController nearbyAction]:MainViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[AFDownloadRequestOperation tempPath]:AFDownloadRequestOperation.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.fileIdentifier">
+            </PersistentString>
+            <PersistentString
+               value = "self.targetPath">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[WinnerListViewController tableView:cellForRowAtIndexPath:]:WinnerListViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "cell.width">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MapNaviViewController spotRouteItemClick:]:MapNaviViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "datatemp">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__32-[MapViewController viewDidLoad]_block_invoke:MapViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "response.homeList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__47-[DetailViewController segmentCtrlValuechange:]_block_invoke270:DetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "response.dataItem">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MapCusAnnotationView initWithAnnotation:reuseIdentifier:]:MapCusAnnotationView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.nameLabel">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[AFDownloadRequestOperation connection:didReceiveResponse:]:AFDownloadRequestOperation.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.offsetContentLength">
+            </PersistentString>
+            <PersistentString
+               value = "httpResponse.statusCode">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SVIndefiniteAnimatedView indefiniteAnimatedLayer]:SVIndefiniteAnimatedView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.strokeThickness">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__40-[DetailViewController createDetailView]_block_invoke:DetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.data.recommendScenicList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MainViewController collectionView:didSelectItemAtIndexPath:]:MainViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "vc.data">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MapNaviViewController setMapCenter]:MapNaviViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.data">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PersonCenterViewController updateListData]:PersonCenterViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "isPublished">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PersonCenterViewController initWithData]:PersonCenterViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.detailtitleArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[DetailViewController headTableView]:DetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.data.smallImage">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__47-[DetailViewController segmentCtrlValuechange:]_block_invoke281:DetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.tipsData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MapNaviViewController updateUserLocationAnnotation:]:MapNaviViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "oldAnnotation.coordinate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[DetailViewController warningAction]:DetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.data">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SearchCityViewController clearUpData:]:SearchCityViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_cityArr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[DetailViewController refreshData]:DetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.data">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SearchCityViewController viewDidLoad]:SearchCityViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_cityArr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__47-[DetailViewController segmentCtrlValuechange:]_block_invoke:DetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.data">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MapViewController AddPointAnnotation]:MapViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.resultArr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MapNaviViewController mapView:regionDidChangeAnimated:]:MapNaviViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "mapView.region">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MapNaviViewController adjustVisibleMapIfNeeded]:MapNaviViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.data.rightLat">
+            </PersistentString>
+            <PersistentString
+               value = "self.data.lat">
+            </PersistentString>
+            <PersistentString
+               value = "self.data.rightLon">
+            </PersistentString>
+            <PersistentString
+               value = "self.data.lng">
+            </PersistentString>
+            <PersistentString
+               value = "lowerRightSketch">
+            </PersistentString>
+            <PersistentString
+               value = "upperLeftSketch">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__53-[MapViewController searchDataActionWithKeyWord:Lat:]_block_invoke:MapViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.cityName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__35-[DetailViewController viewDidLoad]_block_invoke74:DetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.data">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__60-[MainViewController collectionView:cellForItemAtIndexPath:]_block_invoke:MainViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "number">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[DetailViewController viewDidLoad]:DetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.data">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MapNaviViewController mapView:didUpdateUserLocation:updatingLocation:]:MapNaviViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "userLocation.coordinate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__51-[DetailViewController cacheRecommendedScenicSpots]_block_invoke_2:DetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.data">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MapCusAnnotationView pointInside:withEvent:]:MapCusAnnotationView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.nameLabel">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[DetailViewController isOfflineMapDown]:DetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.data">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MainViewController locationManager:didUpdateToLocation:fromLocation:]:MainViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "newLocation.coordinate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[DetailViewController introductionView]:DetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "detaillbl.text">
+            </PersistentString>
+            <PersistentString
+               value = "self.infoData.imageList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__33-[LuckyViewController tapAction:]_block_invoke:LuckyViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "response.luckyDrawerData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MainViewController collectionView:cellForItemAtIndexPath:]:MainViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "tempDara.smallImage">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MapNaviViewController initMap]:MapNaviViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.data.mapZoom">
+            </PersistentString>
+            <PersistentString
+               value = "self.data">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[AFDownloadRequestOperation connection:didReceiveData:]:AFDownloadRequestOperation.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.totalBytesReadPerDownload">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MapNaviViewController mapView:viewForAnnotation:]:MapNaviViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "annotation.title">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MainViewController selectCityFromList:latitude:longitude:]:MainViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "lastLocatedOrSelectedCity">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ScenicSpotGuideViewController showMap]:ScenicSpotGuideViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.data">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[AddMapScenicViewController textFieldShouldReturn:]:AddMapScenicViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "mapListArr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MapNaviViewController mapView:viewForOverlay:]:MapNaviViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "overlay.coordinate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SearchCityViewController filterCityListWithString:]:SearchCityViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_filterdSectionArr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MapCusAnnotationView switchSlectionManually:]:MapCusAnnotationView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.isCalloutOn">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MainViewController userCityLocatedAction]:MainViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_cityLabel.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[DetailViewController createDetailView]:DetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.data">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

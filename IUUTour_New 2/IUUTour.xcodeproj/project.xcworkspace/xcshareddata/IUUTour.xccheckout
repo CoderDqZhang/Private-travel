@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8B4DADCF-E4E2-4062-B62D-43BF26528286</string>
+	<key>IDESourceControlProjectName</key>
+	<string>IUUTour</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+
+		<key>b80b1766-f4d2-814f-8bdd-64c9ba9fccba++3869</key>
+		<string>https://218.241.25.225:8443/svn/IUUTour/trunk/IUUTour</string>
+
+		<key>b80b1766-f4d2-814f-8bdd-64c9ba9fccba</key>
+		<string>https://218.241.25.225:8443/svn/IUUTour</string>
+		<key>d69a2805-5a61-4563-b35f-f1ed2184267a</key>
+		<string>http://svn.yees.com.cn/svn/yees</string>
+
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+
+	<string>IUUTour.xcodeproj</string>
+
+	<string>trunk/IUUTour/IUUTour.xcodeproj</string>
+
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+
+		<key>b80b1766-f4d2-814f-8bdd-64c9ba9fccba++3869</key>
+		<string>../..</string>
+
+		<key>b80b1766-f4d2-814f-8bdd-64c9ba9fccba</key>
+		<string>../../../..</string>
+		<key>d69a2805-5a61-4563-b35f-f1ed2184267a</key>
+		<string>../../../../../yees</string>
+
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>b80b1766-f4d2-814f-8bdd-64c9ba9fccba++3869</key>
+		<string>https://218.241.25.225:8443/svn/IUUTour</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://218.241.25.225:8443/svn/IUUTour/trunk/IUUTour/IUUTour.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+
+	<string>b80b1766-f4d2-814f-8bdd-64c9ba9fccba++3869</string>
+
+	<string>b80b1766-f4d2-814f-8bdd-64c9ba9fccba</string>
+
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+
+			<string>b80b1766-f4d2-814f-8bdd-64c9ba9fccba++3869</string>
+
+			<string>b80b1766-f4d2-814f-8bdd-64c9ba9fccba</string>
+
+			<key>IDESourceControlWCCName</key>
+			<string>IUUTour</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>d69a2805-5a61-4563-b35f-f1ed2184267a</string>
+			<key>IDESourceControlWCCName</key>
+			<string>yees</string>
+		</dict>
+	</array>
+</dict>
+</plist>

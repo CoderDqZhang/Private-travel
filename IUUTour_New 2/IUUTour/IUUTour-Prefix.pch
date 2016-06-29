@@ -1,0 +1,37 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#ifdef __OBJC__
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "Macro.h"
+#import "AppDelegate.h"
+#import "UIViewExt.h"
+#import "LabelSize.h"
+#import "UIImage+UIColor.h"
+#import "UIImageView+WebCache.h"
+#import "UIImageView+AFNetworking.h"
+#import "ModelHead.h"
+#import "Interface.h"
+#import "FileTools.h"
+#import "SVProgressHUD.h"
+#import "UWindowHud.h"
+#import "md5.h"
+#import <ReactiveCocoa/ReactiveCocoa.h>
+
+#endif
+
+
+// 当前AppDelegate实例
+#define APP_DELEGATE    ((AppDelegate*)[[UIApplication sharedApplication] delegate])
+
+//  Remove all NSLog in release mode to enhance performance.
+#ifdef DEBUG
+#    define DLog(...) NSLog(__VA_ARGS__)
+#else
+#    define DLog(...) /* */
+#endif

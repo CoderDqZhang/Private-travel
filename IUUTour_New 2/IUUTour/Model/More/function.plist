@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>1、手绘导览图</string>
+		<key>content</key>
+		<string>生动可爱的手绘卡通地图，全方位、多角度炫酷地展现景区秀美风光。</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>2、语音讲解</string>
+		<key>content</key>
+		<string>萌萌的UU幽默、生动地讲解景区内每一个景点，景点解说由您任性选择。</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>3、GPS定位功能</string>
+		<key>content</key>
+		<string>新增“GPS定位”，可以在景区内实时导航，任意畅游。</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>4、景区交通和小贴士</string>
+		<key>content</key>
+		<string>为您提供最贴心的服务，景区的简介、交通路线、门票价格、开放时间、最佳旅游时节等相关信息应有尽有。</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>5、路线规划</string>
+		<key>content</key>
+		<string>经典、畅游、自由游览三种路线方案，您可根据自己的时间灵活、自由地选择专属路线。</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>6、周边美食</string>
+		<key>content</key>
+		<string>新增“周边美食”，为您推荐景区当地最赞的美食小吃，绝对是吃货们的福利。</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>7、周边酒店</string>
+		<key>content</key>
+		<string>“周边酒店”功能为您提供景区附近最优质的住所，让您愉快地游玩之后更能住的便捷、舒心。</string>
+	</dict>
+</array>
+</plist>
